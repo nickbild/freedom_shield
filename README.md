@@ -24,6 +24,9 @@ Freedom Shield uses 940nm infrared (IR) LEDs embedded in clothing (e.g. hats, gl
 YouTube Video:
 https://www.youtube.com/watch?v=mRwF_LFY0IU
 
+An IR emitting hat:
+![hat](https://raw.githubusercontent.com/nickbild/freedom_shield/master/media/hat_sm.jpg)
+
 ## Schematic
 
 Note: Voltage and resistor value are dependent on choice of LEDs (in particular, the forward voltage and forward current).

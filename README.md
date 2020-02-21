@@ -1,5 +1,9 @@
 # Freedom Shield
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/freedom_shield/master/media/freedom_shield.gif">
+</p>
+
 The freedom of assembly is widely considered to be a basic human right and is codified in documents such as the First Amendment to the US Constitution and the Universal Declaration of Human Rights.  However, there are many places in the world where this right is not respected.
 
 We are living in a time where surveillance cameras, with the ability to uniquely identify individuals through machine learning algorithms, are exceedingly common.  Such cameras can be used to deter people from exercising their rights.
